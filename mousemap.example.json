@@ -1,0 +1,5 @@
+{
+  "device":  {"vendor": "0x1b1c", "product": "0x1b80"},
+  "keys":    {"1f": "back", "1e": "forward"},
+  "buttons": {}
+}
